@@ -1,0 +1,14 @@
+Exercício de Extração de E-mails:
+Crie uma função chamada extraiEmails que recebe um texto como entrada e retorna um array com todos os e-mails encontrados no formato email@dominio.com.
+
+Exercício de Contagem de Hashtags:
+Desenvolva uma função chamada contaHashtags que recebe um texto como parâmetro e retorna o número total de hashtags (#) presentes no texto.
+
+Exercício de Substituição de Palavras:
+Crie uma função chamada substituiPalavra que recebe um texto, uma palavra alvo e uma palavra de substituição. A função deve substituir todas as ocorrências da palavra alvo pela palavra de substituição no texto.
+
+Exercício de Validação de Senhas:
+Desenvolva uma função chamada validaSenhas que recebe um array de strings representando senhas. A função deve retornar um novo array contendo apenas as senhas válidas, seguindo critérios específicos, como um número mínimo de caracteres, presença de letras maiúsculas, etc.
+
+Exercício de Formatação de Números de Telefone:
+Crie uma função chamada formataTelefones que recebe um texto contendo números de telefone no formato (xxx) xxx-xxxx e os formata para o formato xxx-xxx-xxxx.

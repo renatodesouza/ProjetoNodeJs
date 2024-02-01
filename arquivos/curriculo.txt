@@ -1,0 +1,113 @@
+**Informações Pessoais:**
+Nome: Joana Oliveira
+Idade: 28 anos
+Endereço: Rua das Flores, 123, Cidade Feliz
+Telefone: (11) 98765-4321
+E-mail: joana.oliveira@email.com
+
+**Formação Acadêmica:**
+- Bacharel em Engenharia de Software
+  Universidade Tecnológica XYZ, 2016-2020
+
+**Experiência Profissional:**
+- Desenvolvedora de Software Júnior
+  Empresa InovaTech, 2020-2022
+  - Desenvolvimento e manutenção de sistemas web.
+  
+**Habilidades Técnicas:**
+- Linguagens: JavaScript, Python
+- Frameworks: React, Django
+- Banco de Dados: MongoDB, PostgreSQL
+- Idiomas: Inglês (Intermediário)
+
+------------------------------------------------------------------------------
+
+**Informações Pessoais:**
+Nome: André Silva
+Idade: 32 anos
+Endereço: Av. das Estrelas, 456, Cidade Moderna
+Telefone: (21) 98765-6789
+E-mail: andre.silva@email.com
+
+**Formação Acadêmica:**
+- Mestre em Administração de Empresas
+  Universidade Empresarial Alpha, 2012-2014
+
+**Experiência Profissional:**
+- Gerente de Projetos
+  Empresa Líder Global, 2015-2023
+  - Coordenação de equipes e execução de projetos estratégicos.
+
+**Habilidades Técnicas:**
+- Gestão de Projetos: PMP Certificado
+- Software: Microsoft Project, Jira
+- Idiomas: Espanhol (Avançado)
+
+------------------------------------------------------------------------
+
+**Informações Pessoais:**
+Nome: Lucas Pereira
+Idade: 25 anos
+Endereço: Rua dos Sonhos, 789, Cidade Serena
+Telefone: (31) 98765-1234
+E-mail: lucas.pereira@email.com
+
+**Formação Acadêmica:**
+- Graduação em Design Gráfico
+  Universidade Criativa Beta, 2017-2020
+
+**Experiência Profissional:**
+- Designer Gráfico
+  Agência Criativa Delta, 2021-presente
+  - Criação de identidades visuais e materiais gráficos.
+
+**Habilidades Técnicas:**
+- Ferramentas: Adobe Illustrator, Photoshop, InDesign
+- Design de Interfaces: UI/UX Design
+
+------------------------------------------------------------------------
+
+**Informações Pessoais:**
+Nome: Mariana Santos
+Idade: 30 anos
+Endereço: Travessa das Artes, 234, Cidade Cultural
+Telefone: (41) 98765-5678
+E-mail: mariana.santos@email.com
+
+**Formação Acadêmica:**
+- Doutorado em Psicologia
+  Universidade PsicoBrasil, 2014-2019
+
+**Experiência Profissional:**
+- Psicóloga Clínica
+  Consultório Bem-Estar, 2020-presente
+  - Atendimento a pacientes, diagnóstico e tratamento.
+
+**Habilidades Técnicas:**
+- Psicoterapia: Abordagem Cognitivo-Comportamental
+- Avaliação Psicológica: Testes e entrevistas
+
+------------------------------------------------------------------------
+
+**Informações Pessoais:**
+Nome: Tiago Lima
+Idade: 27 anos
+Endereço: Alameda das Inovações, 567, Cidade Tecnológica
+Telefone: (51) 98765-8765
+E-mail: tiago.lima@email.com
+
+**Formação Acadêmica:**
+- Engenharia de Telecomunicações
+  Instituto de Tecnologia Telecom, 2015-2019
+
+**Experiência Profissional:**
+- Engenheiro de Redes
+  Empresa ConectaNet, 2020-presente
+  - Planejamento e implementação de redes de comunicação.
+
+**Habilidades Técnicas:**
+- Redes de Comunicação: Cisco, Juniper
+- Protocolos: TCP/IP, VoIP
+- Certificação: CCNA
+
+------------------------------------------------------------------------
